@@ -1,0 +1,1 @@
+The dataset that I have chosen was on heart failure. I'm interested in science whether it be biology and chemistry. So anything health or science related is something I want to learn more about. I hope to understand who is more likely to have heart failure in terms of BMI, sex, if they have diabetes, etc.
